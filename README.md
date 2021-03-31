@@ -7,7 +7,9 @@ forked from https://git.suckless.org/dwm.
 Requirements
 ------------
 In order to build dwm you need the Xlib header files.
-
+```
+install: libxft libxinerama
+```
 
 Installation
 ------------
